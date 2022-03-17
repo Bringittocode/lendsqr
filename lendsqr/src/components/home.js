@@ -8,8 +8,8 @@ function Home(props) {
             <div className="card w-[360px] mx-auto sm:w-96 bg-[#191c24] sm:mx-auto shadow-xl">
                 <div className="card-body text-white">
                     <h2 className="card-title uppercase">Lendsqr assessment</h2>
-                    <p>My name is 
-                        <span className="font-extrabold"> AZEEZ IBRAHIM</span>.<br/>
+                    <p>MADE WITH
+                        <span className="font-extrabold"> LOVE ❤</span>.<br/>
                         This project is been made using 
                         <span className="font-extrabold"> REACT</span>, and 
                         <span className="font-extrabold"> NODEJS</span>. <br/><br/>
