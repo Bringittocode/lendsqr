@@ -1,0 +1,24 @@
+body,html{
+    background-color: #000000;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.accordion-button{
+    color: #fff;
+    font-weight: bolder;
+    background-color: #191c24;
+    border: 1px solid gray;
+}
+.accordion-button:focus{
+    background-color: #000;
+    box-shadow: none;
+}
+.accordion-button:not(.collapsed){
+    color: #fff;
+    background-color: #000;
+}
+.accordion-button::after{
+    background-color: rgb(221, 221, 221);
+}
