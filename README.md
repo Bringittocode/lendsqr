@@ -13,6 +13,7 @@ clone or download those folder..
 ## lendsqr_api folder
 > npm i
 > npm i knex -g
+
 create a database named lendsqr
 > knex migrate:up -esm
 
