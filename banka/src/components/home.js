@@ -7,7 +7,7 @@ function Home(props) {
         <div className="w-[100vw] flex bg-black items-center h-[100vh]">
             <div className="card w-[360px] mx-auto sm:w-96 bg-[#191c24] sm:mx-auto shadow-xl">
                 <div className="card-body text-white">
-                    <h2 className="card-title uppercase">Lendsqr assessment</h2>
+                    <h2 className="card-title uppercase">BANKA</h2>
                     <p>MADE WITH
                         <span className="font-extrabold"> LOVE ❤</span>.<br/>
                         This project is been made using 

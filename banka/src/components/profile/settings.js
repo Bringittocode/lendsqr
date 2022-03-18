@@ -134,7 +134,7 @@ function Settings(props) {
                                         title="first_name"
                                         defaultValue={firstname}
                                         className={`${validFirstname===true ? `is-valid` : validFirstname===false ? `is-invalid`:''} ${verify===1 ? 'btn-disabled text-gray-400' :'text-white'} form-control bg-[#000] border-transparent focus:bg-[#2A3038] focus:border-[1px] focus:border-[#008000] focus:shadow-none`}
-                                        required placeholder="Lendsql"/>
+                                        required placeholder="banka"/>
 
                                     <div className="valid-feedback">
                                         Looks good!
@@ -169,7 +169,7 @@ function Settings(props) {
                                         }}
                                         defaultValue={email}
                                         className={`${validEmail===true ? `is-valid` : validEmail===false ? `is-invalid`:''} ${verify===1 ? 'btn-disabled text-gray-400' :'text-white'} form-control bg-[#000] border-transparent focus:bg-[#2A3038] focus:border-[1px] focus:border-[#008000] focus:shadow-none`}
-                                        required placeholder="fullstack@lendsqr.com"/>
+                                        required placeholder="fullstack@Banka.com"/>
 
                                     <div className="valid-feedback">
                                         Looks good!

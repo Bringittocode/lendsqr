@@ -49,7 +49,7 @@ function Layout() {
         <>
                 <div className="navbar text-white bg-[#191c24] z-10 w-full sticky top-0 shadow-xl rounded-bl-box rounded-br-box  ">
                     <div className="flex-1">
-                        <a className="btn btn-ghost normal-case text-xl" href="/">Lendsqr Assessment</a>
+                        <a className="btn btn-ghost normal-case text-xl" href="/">Banka Assessment</a>
                     </div>
 
                     <div className="flex-none">

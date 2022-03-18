@@ -6,19 +6,21 @@ NODEJS => fastify
 # Get started by doing the following
 
 clone or download those folder..
-## lendsqr folder
+## banka folder
 > npm i
 > npm start
 
-## lendsqr_api folder
+## banka_api folder
+Rename env.env to .env , it was intensionally included to see what are in the environment variable.
+
 > npm i
 > npm i knex -g
 
-create a database named lendsqr
+create a database named banka
 > knex migrate:up -esm
 
 # testing using cypress
-## lendsqr folder
+## banka folder
 > npx cypress open
 or use
 > npm run cypress:open
