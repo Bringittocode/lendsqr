@@ -11,8 +11,23 @@ clone or download those folder..
 > npm start
 
 ## banka_api folder
-Rename env.env to .env , it was intensionally included to see what are in the environment variable.
+ENVIRONMENT VARIABLE:
+put this in your .env
+> Database_host = 
 
+> Database_user = 
+
+> Database_password = 
+
+> Database_name = 
+
+> Public_token_secret = 
+
+> Public_encrypt_secret = 
+
+> Public_sign_cookie =
+
+install by
 > npm i
 > npm i knex -g
 
